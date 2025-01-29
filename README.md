@@ -1,3 +1,3 @@
 # jan25
 ## Web development
-* This text is  changed *
+*This text is  changed to italic*
